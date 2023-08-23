@@ -6,3 +6,4 @@ include_HEADERS = curl.h
 
 bin_PROGRAMS = curlexample
 curlexample_SOURCES = curlexample.c
+curlexample_SOURCES = lcurl
