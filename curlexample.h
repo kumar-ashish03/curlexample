@@ -6,7 +6,7 @@
 #  include <config.h>
 #endif /* HAVE_CONFIG_H */
 #if HAVE_CURL_H
-#include <curl/curl.h>
+#include "curl.h"
 #endif /* HAVE_CURL_H */
 
 #endif /* curlexample_H */
